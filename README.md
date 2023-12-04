@@ -33,7 +33,7 @@ $ calc '-5 % 3'
 ## Installation
 Make sure you have [Go](https://go.dev/) installed on your computer.
 ```bash
-go install github.com/nickrj/calc
+go install github.com/nickrj/calc@latest
 ```
 
 ## References
