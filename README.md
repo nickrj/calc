@@ -1,5 +1,5 @@
 # calc
-Evaluate float64 expressions on the command line.
+calc is a tool that lets you evaluate floating-point expressions on the command line.
 
 The following operators are supported, from highest precedence to lowest:
 
